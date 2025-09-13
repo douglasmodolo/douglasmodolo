@@ -27,9 +27,8 @@ Outras tecnologias com as quais trabalho:
 ---
 
 ### 📚 Projetos em Destaque
-- **[Nome do Projeto 1]**: Um sistema de gerenciamento de [algo] construído com **.NET 8** e **ASP.NET Core**, utilizando **Entity Framework Core** para acesso a dados.
-- **[Nome do Projeto 2]**: Uma API RESTful para [outro propósito], implementando a arquitetura **Clean Architecture** e testes unitários.
-- **[Nome do Projeto 3]**: [Breve descrição do projeto, tecnologias e o que ele faz].
+- **product-api**: Um sistema de gerenciamento de produtos, clientes e categorias construído com **.NET 8** e **ASP.NET Core**, utilizando **Entity Framework Core** para acesso a dados.
+- **systoq-backend**: Uma API RESTful para controle de estoque, implementando a arquitetura **Clean Architecture** e testes unitários.
 
 ---
 
