@@ -37,15 +37,6 @@ Atualmente **expando meus conhecimentos para Java (Spring Boot)**, microsserviç
 
 ---
 
-### 📊 GitHub Stats
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=douglasmodolo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmodolo&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
----
-
 ### 📫 Onde me encontrar
 
 <div>
