@@ -1,12 +1,12 @@
-# 👋 Olá, sou Douglas — Desenvolvedor Backend
+# 👋 Olá, sou Douglas — Software Engineer | Backend .NET
 
 ### 💻 Sobre Mim
 
-Desenvolvedor backend com **6 anos de experiência**, construindo sistemas robustos com foco em qualidade, escalabilidade e boas práticas de engenharia.
+Desenvolvedor de software com **cerca de 6 anos de experiência**, construindo sistemas corporativos e APIs de alta performance com foco em qualidade, escalabilidade e boas práticas de engenharia.
 
-Comecei minha carreira com **Delphi e C#**, acumulando experiência sólida em sistemas legados e migração para arquiteturas modernas. Hoje meu foco principal está em **.NET** e **Java Spring Boot**, construindo APIs e microsserviços seguindo **DDD**, **Clean Architecture** e **SOLID**.
+Comecei minha carreira com **Delphi e C#**, acumulando experiência sólida em sistemas legados e na integração com arquiteturas modernas. Hoje meu foco principal é o **ecossistema .NET** (C#, ASP.NET Core), construindo APIs e sistemas corporativos com **Clean Code** e **SOLID**.
 
-Atualmente aprofundando conhecimentos em **Linux**, **AWS** e **Observabilidade** — áreas essenciais para quem trabalha com sistemas distribuídos em larga escala.
+Atualmente **expando meus conhecimentos para Java (Spring Boot)**, microsserviços e arquitetura distribuída, além de estudar **Linux, AWS e Observabilidade** — áreas essenciais para sistemas de larga escala.
 
 ---
 
@@ -15,21 +15,19 @@ Atualmente aprofundando conhecimentos em **Linux**, **AWS** e **Observabilidade*
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="40" height="40" alt="Delphi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </div>
 
 ---
 
-### 📖 Estudando Atualmente
+### 📖 Estudando / Expandindo
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" />
